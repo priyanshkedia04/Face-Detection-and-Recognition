@@ -23,9 +23,10 @@ Trained a face recognition model on the embeddings, and then finally recognize f
 *Jupyter Notebook required
 
 *Python Libraries
-    -from imutils import paths
-    -argparse
     -imutils
+    -tensorflow
+    -keras
+    -numpy
     -pickle
     -cv2
     -os
@@ -64,7 +65,7 @@ ex. [@priyanshkedia04](https://github.com/priyanshkedia04)
 
 ## License
 
-License to be added
+GNU General Public License v3.0
 
 ## Acknowledgments
 
