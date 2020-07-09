@@ -20,9 +20,9 @@ Trained a face recognition model on the embeddings, and then finally recognize f
 
 ### Dependencies
 
-*Jupyter Notebook required
+* Jupyter Notebook required
 
-*Python Libraries
+* Python Libraries
     
     -imutils
     -tensorflow
@@ -34,22 +34,22 @@ Trained a face recognition model on the embeddings, and then finally recognize f
 
 ### Installing
 
-*Download Jupyter Notebook
+* Download Jupyter Notebook
 
-*No further installation
+* No further installation
 
 
 ### Executing program
 
 There are 4 phases of this program, run each of them.
 
-*Extract embeddings from face dataset
+* Extract embeddings from face dataset
 
-*Train face recognition model
+* Train face recognition model
 
-*Recognize faces with OpenCV
+* Recognize faces with OpenCV
 
-*Recognize faces in video streams
+* Rcognize faces in video streams
 
 ## Help
 
