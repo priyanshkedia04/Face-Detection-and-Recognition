@@ -35,6 +35,7 @@ Trained a face recognition model on the embeddings, and then finally recognize f
 ### Installing
 
 *Download Jupyter Notebook
+
 *No further installation
 
 
@@ -43,8 +44,11 @@ Trained a face recognition model on the embeddings, and then finally recognize f
 There are 4 phases of this program, run each of them.
 
 *Extract embeddings from face dataset
+
 *Train face recognition model
+
 *Recognize faces with OpenCV
+
 *Recognize faces in video streams
 
 ## Help
