@@ -23,6 +23,7 @@ Trained a face recognition model on the embeddings, and then finally recognize f
 *Jupyter Notebook required
 
 *Python Libraries
+    
     -imutils
     -tensorflow
     -keras
