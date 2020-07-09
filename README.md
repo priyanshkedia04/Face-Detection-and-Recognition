@@ -31,6 +31,8 @@ Trained a face recognition model on the embeddings, and then finally recognize f
     - pickle
     - cv2
     - os
+    - Scikit-Learn
+    - Matplotlib
 
 ### Installing
 
