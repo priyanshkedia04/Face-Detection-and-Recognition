@@ -24,11 +24,11 @@ Trained a face recognition model on the embeddings, and then finally recognize f
 
 * Python Libraries
 
-    - imutils
-    - tensorflow
-    - keras
-    - numpy
-    - pickle
+    - Imutils
+    - Tensorflow
+    - Keras
+    - Numpy
+    - Pickle
     - cv2
     - os
     - Scikit-Learn
