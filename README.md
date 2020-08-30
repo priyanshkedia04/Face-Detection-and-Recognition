@@ -51,7 +51,7 @@ There are 4 phases of this program, run each of them.
 
 * Recognize faces with OpenCV
 
-* Rcognize faces in video streams
+* Recognize faces in video streams
 
 ## Help
 
