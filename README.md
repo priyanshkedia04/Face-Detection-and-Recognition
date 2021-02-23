@@ -10,6 +10,7 @@ Trained a classification on the embeddings, and then finally recognize faces in 
 
 Face Recognition Model using OpenCV and Deep Learning. 
 
+![](Face_recog.png)
 ## Description
 
 First Face detection was performed, Used a pre-trained Caffe deep learning model imported using OpenCV to detect faces. This model detects and recognize the faces of five people known to me. After Detection face embeddings were extracted from each face using deep learning.The FaceNet deep learning model computes a 128-d embedding that quantifies the face. 
